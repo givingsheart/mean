@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![MEAN Logo](http://www.mean.io/img/logos/meanlogo.png)](http://mean.io/) MEAN Stack
 
 [![Build Status](https://travis-ci.org/linnovate/mean.png?branch=master)](https://travis-ci.org/linnovate/mean)
@@ -167,3 +168,9 @@ heroku config:set NODE_ENV=production
 
 ## License
 [The MIT License](http://opensource.org/licenses/MIT)
+=======
+mean
+====
+
+mean 프로젝트 연습용
+>>>>>>> 7320dffc63a4fdea1453049199b74f7a1638d087
